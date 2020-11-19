@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Agumón",
+        "type": [
+            { "name": "Vacuna", "strongAgainst": ["Daemon"], "weakAgainst": ["Gabumon"] }
+        ],
+        "img": "https://i.pinimg.com/564x/b9/2f/38/b92f3877ccd0ee9749269d5e72ad6832.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gatomón",
+        "type": [
+            { "name": "Vacuna", "strongAgainst": ["Leomon"], "weakAgainst": ["Devimon"] }
+        ],
+        "img": "https://vignette.wikia.nocookie.net/tu-digimon/images/e/e4/Gatomon.gif/revision/latest/scale-to-width-down/300?cb=20130127193244&path-prefix=es"
+    },
+    {
+        "id": 3,
+        "name": "Leomon",
+        "type": [
+            { "name": "Vacuna", "strongAgainst": ["Agumon"], "weakAgainst": ["Daemon"] }
+        ],
+        "img": "https://static.wikia.nocookie.net/digimon/images/d/de/Leomon_b.jpg/revision/latest/top-crop/width/360/height/450?cb=20121028030836&path-prefix=es"
+    },
+    {
+        "id": 4,
+        "name": "Daemon",
+        "type": [
+            { "name": "Virus", "strongAgainst": ["Leomon"], "weakAgainst": [""] }
+        ],
+        "img": "https://static.wikia.nocookie.net/digimon/images/7/7b/Deemon.jpg/revision/latest/top-crop/width/360/height/450?cb=20161125060400&path-prefix=de"
+    },
+    {
+        "id": 5,
+        "name": "Gabumon",
+        "type": [
+            { "name": "Vacuna", "strongAgainst": ["Leomon"], "weakAgainst": ["Gatomon"] }
+        ],
+        "img": "https://pbs.twimg.com/profile_images/3578268106/463411e6aa4d9e4c74a4cc8c356855c7_400x400.png"
+    },
+    {
+        "id": 6,
+        "name": "Devimon",
+        "type": [
+            { "name": "Virus", "strongAgainst": ["Gatomon"], "weakAgainst": ["Daemon"] }
+        ],
+        "img": "https://pm1.narvii.com/6839/b879886c9d7dfef8a0093bd270f32b8a6795dcf9v2_00.jpg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pikachu",
+        "id": 0,
+        "type": [
+            { "name": "Electrico", "strongAgainst": ["Agua", "volador"], "weakAgainst": ["Tierra", "Planta"] }
+        ],
+        "img": "https://i.pinimg.com/736x/dc/ab/b7/dcabb7fbb2f763d680d20a3d228cc6f9.jpg"
+    },
+    {
+        "name": "Charmander",
+        "id": 1,
+        "type": [
+            { "name": "Fuego", "strongAgainst": ["Bicho", "Acero", "Planta"], "weakAgainst": ["Roca", "Agua"] }
+        ],
+        "img": "https://vignette.wikia.nocookie.net/sonicpokemon/images/e/e0/Charmander_AG_anime.png/revision/latest?cb=20130714191911"
+    },
+    {
+        "name": "Sceptile",
+        "id": 2,
+        "type": [
+            { "name": "Planta", "strongAgainst": ["Tierra", "Roca", "Agua" ], "weakAgainst": ["Volador", "Veneno", "Bicho"] }
+        ],
+        "img":"https://static.wikia.nocookie.net/espokemon/images/0/00/EP929_Sceptile_de_Sawyer.png/revision/latest?cb=20160709014637" 
+    },
+    {
+        "name": "Lucario",
+        "id": 3,
+        "type": [
+            { "name": "Acero", "strongAgainst": ["Roca", "Hielo", "Hada" ], "weakAgainst": ["Fuego", "Agua", "Eléctrico"] }
+        ],
+        "img":"https://static.wikia.nocookie.net/espokemon/images/d/d0/Lucario.png/revision/latest?cb=20150621180604" 
+    },
+    {
+        "name": "Abra",
+        "id": 3,
+        "type": [
+            { "name": "Psiquico.", "strongAgainst": ["Lucha", "Veneno"], "weakAgainst": ["Siniestro", "Acero"] }
+        ],
+        "img":"https://i.pinimg.com/originals/44/75/b0/4475b09232c6324eb765de28ed2ff470.png" 
+    }
+]
